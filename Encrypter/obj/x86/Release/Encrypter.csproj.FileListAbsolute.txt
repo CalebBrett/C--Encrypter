@@ -1,0 +1,11 @@
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\bin\Release\Encrypter.exe.manifest
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\bin\Release\Encrypter.application
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\bin\Release\Encrypter.exe
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\bin\Release\Encrypter.pdb
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.Form1.resources
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.Properties.Resources.resources
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.csproj.GenerateResource.Cache
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.exe.manifest
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.application
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.exe
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Release\Encrypter.pdb

@@ -1,0 +1,9 @@
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\obj\x86\Debug\Encrypter.Form1.resources
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\obj\x86\Debug\Encrypter.Properties.Resources.resources
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\obj\x86\Debug\Encrypter.csproj.GenerateResource.Cache
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\bin\Debug\Encrypter.exe
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\bin\Debug\Encrypter.pdb
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\obj\x86\Debug\Encrypter.exe
+C:\Users\brettc\AppData\Local\Temporary Projects\Encrypter\obj\x86\Debug\Encrypter.pdb
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Debug\Encrypter.exe
+C:\Users\brettc\documents\visual studio 2010\Projects\Encrypter\Encrypter\obj\x86\Debug\Encrypter.pdb
